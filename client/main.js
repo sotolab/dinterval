@@ -3,6 +3,11 @@ import { ReactiveVar } from 'meteor/reactive-var';
 
 import './main.html';
 
+/**
+* Created by Soto
+* Copyright @ SotoLAB Co,.Ltd
+*/
+
 var timeinterval;
 var endtime = 'September 8 2019 14:50:30 UTC-0400';
 
